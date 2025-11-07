@@ -80,7 +80,7 @@
 
 > How to structure the praxis of interior design?
 
-| **Phase**                      | **Objective**                                           | **Key Activities**                                                                             | **Outputs / Deliverables**                                         |
+| **Phase**                      | **Objective**                                           | **Key Activities**                                                                             | **Deliverables**                                         |
 | ------------------------------ | ------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | **1. Discovery**               | Understand needs, context, and constraints.             | - Client interviews<br>- Site analysis<br>- Space measurement<br>- Budget definition           | - Design brief<br>- Site report<br>- Mood references               |
 | **2. Conceptualization**       | Generate spatial and aesthetic direction.               | - Define concept statement<br>- Develop mood boards<br>- Explore layout ideas                  | - Concept sketches<br>- Material & color direction<br>- Mood board |
