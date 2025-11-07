@@ -1,10 +1,10 @@
-site_name: Arbitreria
+site_name: Tecnicologia
 
 docs_dir: ../docs
 
 theme:
   name: material
-  logo: logo.png
+  logo: https://raw.githubusercontent.com/csiglab/Meta/refs/heads/main/img/o/png/bremontix-laboratorio-tecnicologia_512x512.png
   favicon: favicon.ico
   palette:
     - media: "(prefers-color-scheme: light)"

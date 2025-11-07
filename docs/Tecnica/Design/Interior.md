@@ -92,7 +92,6 @@
 | **8. Styling & Finalization**  | Integrate final aesthetic elements.                     | - Furniture placement<br>- Accessorizing<br>- Lighting adjustment                              | - Completed space<br>- Photographic documentation                  |
 | **9. Evaluation**              | Assess performance and satisfaction.                    | - Post-occupancy evaluation<br>- Client feedback<br>- Maintenance planning                     | - Evaluation report<br>- Maintenance guide                         |
 
-
 ### Advice
 
 | **Category**           | **Advice**                               | **Description**                                                                            |
