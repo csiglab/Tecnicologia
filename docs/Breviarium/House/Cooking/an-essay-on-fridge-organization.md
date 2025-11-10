@@ -41,3 +41,4 @@ Additional organizational tools can include egg holders, beverage racks, and sma
 * *Food Storage & Preservation Techniques* – Culinary Science Review, 2021
 * *Maximizing Refrigerator Efficiency: Tools and Tips* – Home Appliance Research, 2020
 * [National Center for Home Food Preservation](https://nchfp.uga.edu/)
+* [Food preservation](https://en.wikipedia.org/wiki/Food_preservation)
