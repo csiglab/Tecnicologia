@@ -1,0 +1,119 @@
+# An Essay on House Climatization
+
+> In this essay, we explore house climatization from a user’s perspective, with an emphasis on `air-conditioning technologies`.
+
+## Terminology
+
+| Term                                                  | Meaning                                                                                                             | Tag(s)         |
+| ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | -------------- |
+| **Climatization**                                     | The set of techniques and technologies used to regulate indoor temperature, humidity, and air quality.              | General        |
+| **Passive Cooling**                                   | Non-mechanical strategies for thermal comfort, such as shading, ventilation, and insulation.                        | Cooling Method |
+| **Active Cooling**                                    | Mechanically powered systems, primarily air conditioners and heat pumps, that regulate indoor conditions.           | Cooling Method |
+| **Heat Pump**                                         | A device that transfers heat from one place to another using thermodynamic cycles (can both cool and heat).         | System Type    |
+| **Cooling Capacity**                                  | The total heat energy an air conditioner can remove per hour, typically expressed in BTU/h or kW.                   | Performance    |
+| **Cooling Load**                                      | The total heat energy that must be removed from a space to maintain the desired temperature.                        | Performance    |
+| **BTU (British Thermal Unit)**                        | A unit of heat energy; in air conditioning, it measures cooling capacity (1 BTU ≈ 0.293 Wh).                        | Unit           |
+| **BTU/h (British Thermal Units per hour)**            | Standard unit of cooling capacity; 12,000 BTU/h ≈ 3.52 kW.                                                          | Unit           |
+| **kW (Kilowatts)**                                    | SI unit of power; often used alongside BTU/h for cooling/heating capacity.                                          | Unit           |
+| **Tonnage (TR)**                                      | 1 ton of cooling = 12,000 BTU/h ≈ 3.52 kW. Used in sizing larger systems.                                           | Unit           |
+| **Sensible Heat Ratio (SHR)**                         | Fraction of total cooling used to reduce air temperature (as opposed to removing humidity).                         | Performance    |
+| **Latent Load**                                       | Portion of cooling used to remove moisture from the air (dehumidification).                                         | Performance    |
+| **CFM (Cubic Feet per Minute)**                       | Volume of air moved by the system; measures airflow rate.                                                           | Airflow        |
+| **Static Pressure**                                   | Resistance to airflow within ducts; affects fan and system efficiency.                                              | Airflow        |
+| **Air Changes per Hour (ACH)**                        | Number of times the air in a space is replaced per hour; key for ventilation.                                       | Airflow        |
+| **COP (Coefficient of Performance)**                  | Ratio of cooling (or heating) output to electrical input, in consistent energy units (Watts/Watt). Higher = better. | Efficiency     |
+| **EER (Energy Efficiency Ratio)**                     | Ratio of cooling capacity (BTU/h) to electrical input (W) under fixed indoor/outdoor conditions.                    | Efficiency     |
+| **SEER (Seasonal Energy Efficiency Ratio)**           | Seasonal average of EER, reflecting variable outdoor conditions and part-load performance.                          | Efficiency     |
+| **IEER (Integrated Energy Efficiency Ratio)**         | Refined version of SEER for commercial systems; weights part-load efficiencies more accurately.                     | Efficiency     |
+| **ESEER (European Seasonal Energy Efficiency Ratio)** | Similar to SEER, used in European standards for cooling.                                                            | Efficiency     |
+| **HSPF (Heating Seasonal Performance Factor)**        | Seasonal heating efficiency for heat pumps; analogous to SEER but for heating.                                      | Efficiency     |
+| **SCOP (Seasonal Coefficient of Performance)**        | European metric for heating efficiency; heating-season analog to SEER.                                              | Efficiency     |
+| **Setpoint Temperature**                              | Desired indoor temperature maintained by the thermostat.                                                            | Control        |
+| **Duty Cycle**                                        | Percentage of time the compressor runs in a given period.                                                           | Control        |
+| **Inverter Technology**                               | Variable-speed compressor control that adjusts output continuously for energy efficiency.                           | Control        |
+| **VRF / VRV (Variable Refrigerant Flow / Volume)**    | System that modulates refrigerant flow to multiple indoor units for precise zonal control.                          | System Type    |
+| **Zoning**                                            | Ability to condition different rooms independently for comfort and efficiency.                                      | Control        |
+| **Smart Control / AI Optimization**                   | Algorithms and sensors that adjust operation based on occupancy, temperature, and humidity patterns.                | Control        |
+
+## Technology Space
+
+| Technology               | Description                                                                                                          |
+| ------------------------ | -------------------------------------------------------------------------------------------------------------------- |
+| Vapor-Compression System | The most common cooling technology, using a compressor, condenser, expansion valve, and evaporator.                  |
+| Inverter Technology      | Variable-speed compressors that adjust output to maintain stable temperatures efficiently.                           |
+| Split System             | A configuration dividing indoor and outdoor units for better performance and noise reduction.                        |
+| Smart Control            | Integration of sensors and automation systems to optimize energy use and user comfort.                               |
+| Refrigerant              | The working fluid responsible for heat transfer; modern systems use low-GWP (Global Warming Potential) refrigerants. |
+
+## Energy Consumption
+
+> > What determies the erngy cmsupiotno of a given Air Conditionign Technical object?
+
+| Criterion                     | Description                                                                                                   | Energy Impact                                                |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| **Efficiency (EER/SEER/COP)** | Measures how much cooling you get per unit of electricity. Higher = better.                                   | Directly reduces energy use.                                 |
+| **Compressor Type**           | Inverter or variable-speed compressors adjust output to match the exact cooling demand.                       | 30–50% less electricity than old fixed-speed types.          |
+| **Refrigerant**               | Modern low-GWP refrigerants (e.g., R-32) transfer heat more efficiently than older ones (e.g., R-410A, R-22). | Improves thermodynamic efficiency by 5–10%.                  |
+| **Heat-Exchanger Design**     | Micro-channel or enhanced fin designs improve heat transfer.                                                  | Reduces compressor workload → lower energy.                  |
+| **Smart Controls**            | Sensors, motion detection, and adaptive thermostats optimize runtime.                                         | Cuts wasted operation hours.                                 |
+| **Zoning / VRF Systems**      | Deliver cooling only where needed.                                                                            | Major energy savings in multi-room homes.                    |
+| **Humidity Control**          | Systems that manage latent heat more precisely (e.g., inverter + variable airflow).                           | Better comfort at higher temperatures → less cooling needed. |
+
+## Evaluation
+
+| **Metric**                                   | **Description**                                                                                                    |
+| -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| **Cooling Capacity (BTU/h)**                 | Amount of heat removed per hour; determines if the unit can handle the room size.                                  |
+| **SEER (Seasonal Energy Efficiency Ratio)**  | Measures energy efficiency over a cooling season — higher SEER = less energy use per cooling output.               |
+| **Power Input (kW)**                         | Electrical power drawn when the unit is operating at full load.                                                    |
+| **Energy Consumption (kWh/month)**           | Estimated monthly electricity use, based on cooling hours and SEER.                                                |
+| **Electricity Rate (USD/kWh)**               | Cost of electricity used to estimate operating expense (varies by region).                                         |
+| **Monthly Operating Cost (USD)**             | Expected electricity cost per month of use.                                                                        |
+| **Unit Price (USD)**                         | Purchase and installation cost of the HVAC unit.                                                                   |
+| **Lifetime Energy Cost (USD)**               | Total cost of electricity over the expected lifetime (e.g. 10 years of operation).                                 |
+| **Total Ownership Cost (USD)**               | Unit price + lifetime energy cost; reflects real cost of the system.                                               |
+| **Payback Period (months)**                  | Time required for energy savings (vs a baseline model) to offset the higher purchase price.                        |
+| **Noise Level (dB)**                         | Sound level during operation — relevant for comfort in small rooms.                                                |
+| **Cooling Load Match (%)**                   | Degree to which unit capacity matches the calculated cooling requirement of the space.                             |
+| **COP (Coefficient of Performance)**         | Ratio of cooling output to electrical input in consistent units; used especially for reversible (heat pump) units. |
+| **Maintenance Requirement**                  | Frequency and complexity of cleaning or servicing (filters, coils, refrigerant checks).                            |
+| **Durability / Warranty (years)**            | Expected lifetime and coverage period; influences long-term cost and reliability.                                  |
+| **Environmental Impact (Refrigerant / GWP)** | Type of refrigerant and its Global Warming Potential; affects sustainability assessment.                           |
+| **Smart / Control Features**                 | Integration with sensors, thermostats, or energy-saving modes.                                                     |
+| **Brand Reliability Index**                  | Qualitative measure of brand performance, service availability, and failure rates.                                 |
+
+## Economic Profile
+
+> An estimate for an air conditioner serving a space of approximately 9 $m^2$ (≈ 10×10 ft), operating 15 hours per day in a tropical climate.
+
+### Comparison
+
+> Note: Make a graph with Use (By Year) - Total Cost (Equiment + ... + Energy Use)
+
+| SEER | Monthly Consumption (kWh) | Monthly Cost (USD) | Example Unit Price (USD) |
+| ---- | ------------------------: | -----------------: | -----------------------: |
+| 13   |                    311.54 |              56.08 |                      350 |
+| 16   |                    253.12 |              45.56 |                      450 |
+| 18   |                    225.00 |              40.50 |                      600 |
+| 21   |                    192.86 |              34.71 |                      800 |
+| 25   |                    162.00 |              29.16 |                    1,200 |
+| 28   |                    144.64 |              26.04 |                    1,500 |
+
+### Product Space
+
+| Firm           | Technology                    | Example product (model / typical size)                  |                      SEER (advertised) |   Typical US price (approx.) | Quick quality evaluation                                                                                                   |
+| -------------- | ----------------------------- | ------------------------------------------------------- | -------------------------------------: | ---------------------------: | -------------------------------------------------------------------------------------------------------------------------- |
+| **Midea**      | DC-inverter mini-split        | Midea 9,000 BTU single-zone (Hyper-heat / smart models) |     **~19–28 SEER2** (model dependent) | **~USD $700–1,200** (varies) | Very good value for $; high-SEER models available; decent warranty; good budget choice. |
+| **LG**         | Dual-inverter mini-split      | LG 9,000 BTU single-zone (DUAL Inverter / ThinQ)        |                       **~21–27 SEER2** |        **~USD $1,100–1,900** | Strong reliability, modern features (Wi-Fi/ThinQ), long warranties on some models; mid-to-high tier.|
+| **Daikin**     | Inverter mini-split           | Daikin 9,000 BTU Entra / 17-series                      | **~17–18 SEER (some models SEER2 18)** |        **~USD $1,000–1,300** | Premium engineering, quiet, reliable; often slightly premium pricing; very common installer choice.|
+| **Mitsubishi** | Inverter mini-split (premium) | Mitsubishi 9,000 BTU wall-mount                         |                        **~16–20 SEER** |             **~USD $1,300+** | Excellent long-term reliability and dealer network; higher upfront cost; top tier quality.|
+
+## QA
+
+### Does an 'Split' System improves SERR?
+
+## References
+
+- [Air conditioning](https://en.wikipedia.org/wiki/Air_conditioning)
+- [Heating, ventilation, and air conditioning](https://en.wikipedia.org/wiki/Heating,_ventilation,_and_air_conditioning)
+- [A comprehensive evaluation of the most suitable HVAC system for an industrial building by using a hybrid building energy simulation and multi criteria decision making framework](https://www.sciencedirect.com/science/article/abs/pii/S2352710221000097)
