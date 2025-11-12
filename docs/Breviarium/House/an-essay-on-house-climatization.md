@@ -34,6 +34,10 @@
 | **VRF / VRV (Variable Refrigerant Flow / Volume)**    | System that modulates refrigerant flow to multiple indoor units for precise zonal control.                          | System Type    |
 | **Zoning**                                            | Ability to condition different rooms independently for comfort and efficiency.                                      | Control        |
 | **Smart Control / AI Optimization**                   | Algorithms and sensors that adjust operation based on occupancy, temperature, and humidity patterns.                | Control        |
+| **Voltage**               | Electrical potential difference supplied to the system; typically in volts (V).                      | Electrical  |
+| **AC / DC**               | Type of electrical current: Alternating Current (AC) or Direct Current (DC).                         | Electrical  |
+| **Split System**          | Air conditioning system with separate indoor and outdoor units, connected by refrigerant lines.      | System Type |
+| **Mini Split / Ductless** | Split system without ducts; each indoor unit independently controlled, connected to an outdoor unit. | System Type |
 
 ## Technology Space
 
@@ -88,16 +92,30 @@
 
 ### Comparison
 
-> Note: Make a graph with Use (By Year) - Total Cost (Equiment + ... + Energy Use)
+> Note: Make a graph with Use (By Year) - Total Cost (Equiment + ... + Energy Use).
 
-| SEER | Monthly Consumption (kWh) | Monthly Cost (USD) | Example Unit Price (USD) |
-| ---- | ------------------------: | -----------------: | -----------------------: |
-| 13   |                    311.54 |              56.08 |                      350 |
-| 16   |                    253.12 |              45.56 |                      450 |
-| 18   |                    225.00 |              40.50 |                      600 |
-| 21   |                    192.86 |              34.71 |                      800 |
-| 25   |                    162.00 |              29.16 |                    1,200 |
-| 28   |                    144.64 |              26.04 |                    1,500 |
+> SEER 18 gives nearly minimum cost; SEER 20 or 25 adds little savings because higher price offsets reduced energy use.
+
+Assumptions:
+
+| **Variable**            | **Value**    | **Notes**                                   |
+| ----------------------- | ------------ | ------------------------------------------- |
+| **Cooling Load**        | 12,000 BTU/h | ≈ 1 ton of cooling capacity                 |
+| **Operating Hours/Day** | 15 hours     | Typical for tropical climates               |
+| **Energy Rate**         | $0.18 /kWh   | Dominican Republic average residential rate |
+| **System Lifetime**     | 8 years      | Economic evaluation horizon                 |
+| **Days/Year**           | 365          | Continuous yearly operation assumption      |
+| **Noise Level**         | 19–45 dB(A)  | Typical range for indoor/outdoor AC units   |
+| **Voltage** | |
+
+
+| SEER | Unit Price (USD) | 8-Year Energy Cost | **Total 8-Year Cost** |
+| ---- | ---------------- | ------------------ | --------------------- |
+| 13   | 450              | 3 624              | **4 074**             |
+| 16   | 600              | 2 944              | **3 544**             |
+| 18   | 750              | 2 616              | **3 366** ✅          |
+| 20   | 950              | 2 352              | **3 302**             |
+| 25   | 1 400            | 1 880              | **3 280**             |
 
 ### Product Space
 
@@ -111,6 +129,8 @@
 ## QA
 
 ### Does an 'Split' System improves SERR?
+
+### What i th best predictor of energy compsiotion by a air condition?
 
 ## References
 

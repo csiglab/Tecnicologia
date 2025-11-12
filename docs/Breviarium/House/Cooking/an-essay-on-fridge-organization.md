@@ -2,6 +2,8 @@
 
 > Fridge organization is a fundamental aspect of kitchen efficiency, food preservation, and minimizing waste. Properly organizing your refrigerator ensures that items are easy to locate, optimizes storage space, and maintains freshness. Tools such as stackable fridge drawer organizers, pull-out storage bins, and clear fridge drawer boxes can significantly enhance this process.
 
+> **Note**: The relationship between EER/SEER and energy consumption is nonlinear — improvements in efficiency yield diminishing returns, so the rate of reduction (the derivative) is not constant.
+
 ## Formulation
 
 The goal of fridge organization is to **maximize accessibility, visibility, and preservation** of food items while maintaining hygiene and safety. A well-organized fridge allows for:
