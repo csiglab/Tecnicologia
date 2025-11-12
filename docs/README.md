@@ -1,6 +1,6 @@
 # Guide
 
-> ...
+> A set of non-core notes covering different kinds of technical knowledge.
 
 ## Technique
 
