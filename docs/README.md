@@ -2,8 +2,7 @@
 
 > A set of non-core notes covering different kinds of technical knowledge.
 
-
->  For the core technical mastery, see [Bremontix ARs](https://www.notion.so/In-136c0f5171ec80f9a969eb374ac750c6?pvs=73).
+>  or the core technical mastery, see [Bremontix ARs](https://www.notion.so/In-136c0f5171ec80f9a969eb374ac750c6?pvs=73).
 
 ## Technique
 
