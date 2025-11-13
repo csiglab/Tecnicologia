@@ -48,6 +48,47 @@
 | **Socio-Cultural Context** | Cultural Cognition                    | Align design with cultural meanings, symbols, and user expectations.                                       |
 |                            | Contextual Appropriateness            | Integrate architectural, historical, and geographical context to ensure relevance and resonance.           |
 
+### Human Model
+
+> What is the model or theory of a human that guides interior design? How are this models validaded?
+
+> The "model" is not a formal model; rather, it is a set of observations about the human internal and interactional interface with the environment, intended to adapt the environment in ways that enhance performance according to a set of identified “right” or “wrong” metrics.
+
+The dimensions of the model are:
+
+1. **Perceptual** – How humans perceive visual, spatial, and sensory information, including light, color, texture, and form.
+2. **Cognitive** – How humans process information, navigate spaces, and understand functional layouts.
+3. **Emotional** – How environments influence mood, comfort, stress, and wellbeing.
+4. **Behavioral** – How humans interact with objects, furniture, and space; patterns of use and activity.
+5. **Social (Cultural)** – How humans interact socially, respect privacy, and perceive cultural meaning in spaces.
+6. **Ergonomic** – Physical comfort, accessibility, and support for diverse bodily needs.
+7. **Adaptive** – How humans respond to change, flexibility, and evolving uses of space.
+
+| **Category**                     | **Principle**                       | **Description**                                                                   | **Implication for Interior Design**                                                              |
+| -------------------------------- | ----------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| 🎨 **Perceptual**                | **Gestalt / Holistic Perception**   | Humans perceive elements as organized wholes rather than isolated parts.          | Arrange furniture, décor, and color schemes to create coherent, harmonious visual groups.        |
+| 🎨 **Perceptual**                | **Figure-Ground Distinction**       | People naturally separate objects from their background to identify focal points. | Use contrast, layering, or framing to highlight key features or functional zones.                |
+| 🎨 **Perceptual**                | **Proximity & Similarity**          | Items close together or visually similar are perceived as related.                | Cluster furniture or décor to reinforce functional or thematic groupings.                        |
+| 🎨 **Perceptual**                | **Continuity & Flow**               | Eyes prefer smooth lines and continuous patterns.                                 | Design pathways, sightlines, and circulation to guide intuitive movement through the space.      |
+| 🧠 **Cognitive**                 | **Cognitive Load Minimization**     | People process environments more easily when simple and predictable.              | Reduce clutter and simplify layouts to make spaces intuitive and easy to navigate.               |
+| 🧠 **Cognitive**                 | **Wayfinding & Mental Mapping**     | Humans create mental maps to navigate spaces efficiently.                         | Use consistent cues, landmarks, and sightlines to aid orientation and reduce confusion.          |
+| 💛 **Emotional / Psychological** | **Comfort & Safety**                | Feeling secure and physically comfortable improves wellbeing.                     | Ensure furniture scale, lighting, and circulation support ease of use and safety.                |
+| 💛 **Emotional / Psychological** | **Stress Reduction**                | Environments influence mood and stress levels.                                    | Incorporate natural light, greenery, soft textures, and calming colors to promote relaxation.    |
+| 🏃 **Behavioral**                | **Functional Affordance**           | Objects should clearly suggest their intended use.                                | Design chairs, shelves, and fixtures so their function is obvious and intuitive.                 |
+| 🏃 **Behavioral**                | **Activity Zoning**                 | Grouping spaces by purpose improves usability.                                    | Create dedicated zones for work, rest, or socializing to optimize spatial efficiency.            |
+| 👥 **Social / Cultural**         | **Social Interaction Facilitation** | Spaces can encourage communication and collaboration.                             | Arrange seating and circulation to promote conversation and engagement.                          |
+| 👥 **Social / Cultural**         | **Privacy & Personal Space**        | People require control over personal boundaries.                                  | Include nooks, partitions, or spacing that provides comfort and privacy.                         |
+| ✨ **Aesthetic**                  | **Balance & Harmony**               | Visual stability and composition enhance perception.                              | Use symmetry, rhythm, and proportion to create a pleasing, cohesive environment.                 |
+| ✨ **Aesthetic**                  | **Contrast & Focus**                | Differences in color, texture, or scale attract attention.                        | Highlight important areas or features using color, lighting, or texture.                         |
+| 🌐 **Spatial / Environmental**   | **Scale & Proportion**              | Proper sizing of furniture and spaces makes environments comfortable.             | Match furniture, ceiling height, and room dimensions to human scale.                             |
+| 🌐 **Spatial / Environmental**   | **Light & Shadow**                  | Light affects mood, perception, and spatial clarity.                              | Use natural and artificial lighting to define space, reveal textures, and enhance ambiance.      |
+| 🌐 **Spatial / Environmental**   | **Color Psychology**                | Colors influence mood, spatial perception, and emotional response.                | Apply color strategically to energize, calm, or visually expand/contract a space.                |
+| 🪑 **Ergonomic / Physiological** | **Accessibility & Ease of Use**     | Spaces should accommodate all users and physical abilities.                       | Design furniture and circulation to support comfort, safety, and accessibility.                  |
+| 🪑 **Ergonomic / Physiological** | **Sensory Comfort**                 | Comfort includes touch, acoustics, temperature, and lighting.                     | Control sound, temperature, and tactile surfaces to maximize user comfort.                       |
+| 🌍 **Cultural / Symbolic**       | **Meaning & Identity**              | Spaces convey personal or cultural identity.                                      | Use materials, colors, and décor that reflect cultural or personal values to enhance attachment. |
+| 🔄 **Temporal / Behavioral**     | **Flexibility & Adaptability**      | Spaces should support changing activities and needs.                              | Incorporate modular layouts or movable furniture to allow easy reconfiguration.                  |
+
+
 ## Design Meta Principle(s)
 
 > A meta-principle operates at a higher level than stylistic or technical rules: it governs how principles are selected, prioritized, and interpreted by the design agent (human or artificial). It reflects the cognitive and systemic framework through which a designer perceives, evaluates, and structures a spatial environment.
