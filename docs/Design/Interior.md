@@ -4,9 +4,38 @@
 
 ## Formulation
 
-> Interior Design : Space → Organized Environment.
+> Interior Design : Space → Organized Environment / Under Human Interpertain.
 
 > A transformation function where Space represents raw spatial potential, and Organized Environment denotes spatial configuration structured by function, aesthetics, and experience.
+
+## Design Meta Principle(s)
+
+> The fundamental principles that guide and regulate decision-making in the organization of space and objects, defining the underlying logic by which form, function, and meaning are compos
+
+> A meta-principle operates at a higher level than stylistic or technical rules: it governs how principles are selected, prioritized, and interpreted by the design agent (human or artificial). It reflects the cognitive and systemic framework through which a designer perceives, evaluates, and structures a spatial environment.
+
+### Dimension
+
+| **Dimension**            | **Meta-Principles Covered**                                                                       |
+| ------------------------ | ------------------------------------------------------------------------------------------------- |
+| **Cognitive-Perceptual** | Spatial Coherence, Perceptual Harmony, Cognitive Economy, Emotional Calibration                   |
+| **Functional-Systemic**  | Functional Integration, Environmental Adaptation, Temporal Modularity, Energy & Flow Optimization |
+| **Symbolic-Ethical**     | Symbolic Consistency, Contextual Reciprocity, Sensorial Integration, Ethical Materiality          |
+
+### Principles(s)
+
+| **Meta-Principle**             | **Description**                                                                                   |
+| ------------------------------ | ------------------------------------------------------------------------------------------------- |
+| **Spatial Coherence**          | Ensure consistency across spatial, visual, and functional elements to form an integrated whole.   |
+| **Perceptual Harmony**         | Achieve visual balance and rhythm through proportion, contrast, and controlled variation.         |
+| **Cognitive Economy**          | Reduce cognitive load by simplifying layout and enhancing legibility and intuitive use.           |
+| **Functional Integration**     | Align spatial and material design with patterns of activity, comfort, and efficiency.             |
+| **Environmental Adaptation**   | Adjust design to local environmental, climatic, and cultural conditions for optimal performance.  |
+| **Temporal Modularity**        | Enable configurations and components to evolve or adapt over time without losing coherence.       |
+| **Energy & Flow Optimization** | Maintain fluid, efficient circulation and functional flow of movement, light, and energy.         |
+| **Symbolic Consistency**       | Preserve coherence between visual identity, cultural meaning, and functional expression.          |
+| **Sensorial Integration**      | Harmonize sensory modalities—sight, sound, touch, and light—into a unified perceptual experience. |
+| **Ethical Materiality**        | Ensure material and process choices are sustainable, durable, and socially responsible.           |
 
 ## Design Principle(s)
 
@@ -14,19 +43,36 @@
 
 > Principles that guide the transformation of intention into coherent, functional, and expressive form.
 
-| **Category**       | **Principle**       | **Description**                                                                                     |
-| ------------------ | ------------------- | --------------------------------------------------------------------------------------------------- |
-| **Aesthetic**      | **Harmony**         | Ensure visual and spatial elements form a coherent whole through proportion, rhythm, and alignment. |
-| **Aesthetic**      | **Contrast**        | Create visual interest and focus through differences in color, texture, scale, or shape.            |
-| **Functional**     | **Utility**         | Prioritize usability and effectiveness in fulfilling the intended purpose of the design.            |
-| **Functional**     | **Ergonomics**      | Adapt form and scale to human capabilities and limitations for comfort and safety.                  |
-| **Structural**     | **Integrity**       | Maintain material and structural coherence—form should follow the logic of construction.            |
-| **Perceptual**     | **Hierarchy**       | Organize elements to guide attention and clarify importance and relationships.                      |
-| **Cognitive**      | **Clarity**         | Minimize ambiguity; ensure users easily understand how to interact with or interpret the design.    |
-| **Contextual**     | **Appropriateness** | Align design with its cultural, environmental, and functional context.                              |
-| **Sustainability** | **Efficiency**      | Optimize resource use and minimize environmental impact through material and process choices.       |
-| **Systemic**       | **Coherence**       | Ensure consistency across elements, systems, and user experiences.                                  |
-| **Temporal**       | **Adaptability**    | Allow the design to evolve or be repurposed as needs and conditions change.                         |
+| **Meta-Principle**             | **Principle(s)**                                                                         | **Description**                                                                                                           |
+| ------------------------------ | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| **Spatial Coherence**          | **Hierarchy**, **Alignment**, **Continuity**                                             | Ensures that spatial and visual elements relate through structured order, clear organization, and continuous geometry.    |
+| **Perceptual Harmony**         | **Balance**, **Proportion**, **Rhythm**, **Contrast**                                    | Achieves visual stability and aesthetic unity by managing relationships of size, weight, and variation among elements.    |
+| **Cognitive Economy**          | **Clarity**, **Legibility**, **Simplicity**                                              | Reduces perceptual and cognitive load; users can intuitively understand spatial organization and object function.         |
+| **Emotional Calibration**      | **Atmosphere**, **Tone**, **Color Temperature**, **Texture Harmony**                     | Controls affective response through light, color, material, and spatial composition to produce desired emotional effects. |
+| **Functional Integration**     | **Utility**, **Ergonomics**, **Accessibility**, **Spatial Zoning**, **Circulation Flow** | Aligns spatial and object design with user activity patterns, comfort, and functional efficiency.                         |
+| **Environmental Adaptation**   | **Ventilation Logic**, **Light Orientation**, **Material Response**, **Thermal Comfort** | Optimizes environmental performance and user well-being through adaptation to local climate and context.                  |
+| **Temporal Modularity**        | **Flexibility**, **Maintenance**, **Replaceability**, **Modular Composition**            | Enables design to evolve or be reconfigured over time without loss of coherence.                                          |
+| **Energy & Flow Optimization** | **Spatial Flow**, **Lighting Logic**, **Task Efficiency**, **Movement Ergonomics**       | Manages human, visual, and energetic movement through the environment to minimize resistance and maximize comfort.        |
+| **Symbolic Consistency**       | **Identity**, **Thematic Continuity**, **Stylistic Integrity**                           | Ensures that forms, motifs, and materials express a unified symbolic and cultural meaning.                                |
+| **Contextual Reciprocity**     | **Appropriateness**, **Cultural Resonance**, **Architectural Continuity**                | Aligns interior expression with architectural context, geography, and social meaning.                                     |
+| **Sensorial Integration**      | **Acoustic Balance**, **Tactile Coherence**, **Lighting Harmony**, **Material Synergy**  | Harmonizes multisensory inputs to create immersive, balanced experiences.                                                 |
+| **Ethical Materiality**        | **Sustainability**, **Durability**, **Transparency of Origin**, **Efficiency**           | Grounds aesthetic and functional choices in ethical and ecological responsibility.                                        |
+
+## Design Rule
+
+> Implements a measurable or procedural operation.
+
+| **Rule**                             | **Description**                                                                                 | **Tag(s)**          |
+| ------------------------------------ | ----------------------------------------------------------------------------------------------- | ------------------- |
+| Maintain consistent visual rhythm    | Align furniture, lighting, and decorative elements to form a continuous rhythm across the room. | harmony, rhythm     |
+| Balance visual weight                | Distribute furniture and color masses to achieve equilibrium without monotony.                  | balance             |
+| Align functional and aesthetic zones | Ensure that circulation paths and usage areas reinforce the aesthetic composition.              | unity, function     |
+| Use hierarchical focal points        | Establish one main and a few secondary focal elements to organize perception.                   | hierarchy, focus    |
+| Control proportion and scale         | Adjust object sizes relative to space and to each other to preserve harmony.                    | proportion, scale   |
+| Modulate contrast                    | Use variations in tone, material, and texture to prevent visual stagnation.                     | contrast            |
+| Preserve spatial coherence           | Keep consistent structural or material logic throughout the design.                             | coherence           |
+| Calibrate repetition                 | Repeat forms or motifs with slight variation to sustain interest.                               | rhythm, unity       |
+| Optimize emptiness                   | Leave intentional voids to enhance perception of form and light.                                | minimalism, balance |
 
 ## Technique Space
 
