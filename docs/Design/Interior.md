@@ -16,14 +16,6 @@
 
 > The fundamental problem of design lies in reconciling the multiplicity of human intentions, perceptual constraints, and systemic realities into a coherent whole. Design is not merely the act of shaping form or function, but the continuous negotiation between cognition and perception—the way things are understood and the way they are seen—between functionality and systemic order—the way things work and the way they interact—and between the symbolic and the material—the meanings that things carry and the realities that sustain them. At its core, design seeks to make sense visible: to render the abstract intelligible, the functional graceful, and the complex harmonious. It is an art of synthesis, where logic meets intuition and where every choice, however minute, becomes a statement about how we wish the world to be organized, experienced, and remembered.
 
-### Dimension
-
-| **Dimension**            | **Meta-Principles Covered**                                                                       |
-| ------------------------ | ------------------------------------------------------------------------------------------------- |
-| **Cognitive-Perceptual** | Spatial Coherence, Perceptual Harmony, Cognitive Economy, Emotional Calibration                   |
-| **Functional-Systemic**  | Functional Integration, Environmental Adaptation, Temporal Modularity, Energy & Flow Optimization |
-| **Symbolic-Ethical**     | Symbolic Consistency, Contextual Reciprocity, Sensorial Integration, Ethical Materiality          |
-
 ### Principles(s)
 
 | **Meta-Principle**             | **Description**                                                                                   |
