@@ -8,6 +8,46 @@
 
 > A transformation function where Space represents raw spatial potential, and Organized Environment denotes spatial configuration structured by function, aesthetics, and experience.
 
+## Foundation
+
+> What is the grounding of Interior Design Praxis? What grounds interior design evaluations?
+
+> Interior design is grounded in a **model of the human**—their perception, cognition, affect, and activity patterns—which allows us to reason systematically about space, form, and experience. By understanding how humans perceive, interact with, and are affected by their environments, we can infer a set of design principles that guide spatial, functional, and aesthetic decisions.
+
+> These principles are applied to **optimize environments** so that they support human needs, enhance well-being, communicate meaning, and maintain coherence across spatial, sensory, temporal, and cultural dimensions.
+
+> In essence, interior design praxis is a process of **translating human-centered understanding into structured form**, balancing **function, experience, and context**, while maintaining ethical, sustainable, and culturally resonant choices.
+
+### Dimension
+
+| **Grounding**            | **Description**                                                                                                                                                                  |
+| ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Human Experience**     | Interior design is fundamentally grounded in the quality of human experience — how spatial, sensory, and symbolic elements shape perception, comfort, and meaning in daily life. |
+| **Spatial Cognition**    | Design decisions are guided by how people perceive, navigate, and interpret spatial environments, ensuring legibility, coherence, and orientation.                               |
+| **Functional Order**     | Every design must fulfill practical requirements and support the activities, flows, and systems that define the space’s purpose.                                                 |
+| **Aesthetic Harmony**    | Evaluation arises from the integration of proportion, materiality, light, and texture into a visually and emotionally coherent whole.                                            |
+| **Cultural Symbolism**   | Interiors are also cultural artifacts; they communicate values, identity, and belonging through form, color, and style.                                                          |
+| **Systemic Integration** | A space succeeds when structural, environmental, and technological subsystems align seamlessly with human use and symbolic intention.                                            |
+
+### Fundamental Theories of the Human Agent in Interior Design
+
+| **Domain**                 | **Theory - Observation - Heuristic**                  | **Use in IS**                                                                              |
+| -------------------------- | ------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| **Perception**             | Gestalt Principles                    | Guide spatial organization, visual grouping, and coherent layouts.                                         |
+|                            | Visual and Spatial Cognition          | Inform navigation, wayfinding, and comprehension of spatial hierarchies.                                   |
+|                            | Multisensory Integration              | Harmonize lighting, acoustics, texture, and thermal cues for immersive experience.                         |
+| **Cognition**              | Information Processing Models         | Enable intuitive interaction, affordance recognition, and environmental comprehension.                     |
+|                            | Cognitive Load Theory                 | Simplify layouts to reduce perceptual and cognitive overload.                                              |
+|                            | Embodied Cognition                    | Incorporate ergonomics, movement paths, and reach to align physical experience with spatial understanding. |
+| **Emotion**                | Environmental Psychology              | Support mood, productivity, stress reduction, and social interaction through spatial planning.             |
+|                            | Color and Material Theory             | Evoke desired emotional responses and reinforce spatial identity.                                          |
+|                            | Atmospheric / Experiential Design     | Modulate emotional state through light, rhythm, acoustics, and spatial composition.                        |
+| **Behavior**               | Activity & Ergonomic Models           | Guide furniture layout, circulation, zoning, and functional arrangements.                                  |
+|                            | Proxemics / Social Interaction Theory | Organize space to manage interpersonal distance, privacy, and social engagement.                           |
+|                            | Temporal & Adaptive Behavior          | Design for flexibility, modularity, and evolving user needs over time.                                     |
+| **Socio-Cultural Context** | Cultural Cognition                    | Align design with cultural meanings, symbols, and user expectations.                                       |
+|                            | Contextual Appropriateness            | Integrate architectural, historical, and geographical context to ensure relevance and resonance.           |
+
 ## Design Meta Principle(s)
 
 > A meta-principle operates at a higher level than stylistic or technical rules: it governs how principles are selected, prioritized, and interpreted by the design agent (human or artificial). It reflects the cognitive and systemic framework through which a designer perceives, evaluates, and structures a spatial environment.
@@ -157,3 +197,4 @@
 - [Interior Design](https://en.wikipedia.org/wiki/Interior_design)
 - Pile, J. F. Interior Design (4th ed.). Pearson, 2007.
 - Abercrombie, S. A Philosophy of Interior Design. Harper & Row, 1990.
+- [Gestalt Psychology](https://en.wikipedia.org/wiki/Gestalt_psychology)
