@@ -126,6 +126,53 @@ Assumptions:
 | **Daikin**     | Inverter mini-split           | Daikin 9,000 BTU Entra / 17-series                      | **~17–18 SEER (some models SEER2 18)** |        **~USD $1,000–1,300** | Premium engineering, quiet, reliable; often slightly premium pricing; very common installer choice.|
 | **Mitsubishi** | Inverter mini-split (premium) | Mitsubishi 9,000 BTU wall-mount                         |                        **~16–20 SEER** |             **~USD $1,300+** | Excellent long-term reliability and dealer network; higher upfront cost; top tier quality.|
 
+## Maintenance
+
+> What are the maintenance requirements of an air-conditioning system?
+
+> **Maintenance Schedule:**  
+> • **Monthly:** Clean or replace filters; inspect return and supply vents; check for abnormal noise or vibration.  
+> • **Quarterly:** Clean evaporator and condenser coils; inspect condensate drain and tray; check thermostat calibration.  
+> • **Biannual (Cooling/Heating Season Start):** Verify refrigerant charge; inspect electrical connections; test blower motor and fan belts; clean outdoor unit surroundings.  
+> • **Annual:** Full system performance audit; pressure testing; lubrication of motors and bearings (if applicable); inspection of duct integrity; overall safety check.
+
+> **Maintenance Type:**  
+> • **Preventive Maintenance:** Regular cleaning, inspection, calibration, and component checks to preserve efficiency and avoid failures.  
+> • **Corrective Maintenance:** Repair or replacement of faulty components such as capacitors, contactors, fan motors, sensors, or refrigerant leaks.  
+> • **Predictive Maintenance (Advanced Systems):** Monitoring performance metrics (temperature delta, compressor load, energy consumption) to anticipate failures and optimize operation.  
+> • **Seasonal Maintenance:** Configuration and checks specific to cooling or heating seasons (in HVAC heat-pump systems).
+
+### Filter Maintenance
+
+> How to maintain the filter?
+
+- Remove the filter panel and inspect for dust accumulation.
+- Clean reusable filters with mild soap and water; allow them to dry completely before reinstalling.
+- For disposable filters, replace with the manufacturer-specified MERV rating.
+- Ensure proper seating and sealing of the filter to avoid bypass airflow.
+- Verify airflow after reinstalling and reset any filter-change indicators (if present).
+
+### Evaporator Maintenance
+
+> How to maintain the evaporator?
+
+- Turn off power before servicing.
+- Remove access panels and inspect coil fins for dust, mold, or obstruction.
+- Clean using a non-corrosive coil cleaner or gentle brushing.
+- Check the condensate drain line for clogs and flush it to prevent overflow.
+- Verify insulation on refrigerant lines and ensure proper airflow across the coil.
+
+### Condenser Maintenance
+
+> How to maintain the condenser?
+
+- Disconnect power to the outdoor unit.
+- Clear debris around the condenser within a 1–2 meter radius.
+- Remove the top grille and rinse the coil from the inside out using low-pressure water.
+- Straighten bent fins using a fin comb.
+- Inspect the fan motor, fan blades, and electrical contacts; clean and tighten if necessary.
+- Ensure no objects obstruct the exhaust airflow of the condenser.
+
 ## QA
 
 ### Does an 'Split' System improves SERR?
