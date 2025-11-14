@@ -13,8 +13,6 @@ Topics:
 - Research Techniques,
 - …
 
-[Biotenica](Biotecnica/Biotenica%20227c0f5171ec8058954efde51fa66288.csv)
-
 ## References
 
 - [Nature](https://www.notion.so/Nature-554701ca10264f4091f1e9e8fd7aec04?pvs=21)

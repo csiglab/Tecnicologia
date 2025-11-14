@@ -125,8 +125,6 @@ Research
 | 🌐 **Stimuli-Responsive Changes** | Light, Electric, Magnetic, Heat | Shape change, conductivity, or color change under stimuli (e.g., piezo-, photo-, thermo-) |
 |  | Smart/Functional Material Response | Electrochromism, magnetostriction, ferroelectric switching |
 
-[Materiotecnia](Materiotecnia/Materiotecnia%20227c0f5171ec81179042c88659223699.csv)
-
 ## References
 
 - [Nature](https://www.notion.so/Nature-554701ca10264f4091f1e9e8fd7aec04?pvs=21)

@@ -164,13 +164,7 @@ References
 
 ## Notes
 
-[Miscellanea](Fisicatecnica/Miscellanea%20225c0f5171ec81e8ba1ec2eeb542b6ea.csv)
-
-[Robotic System](Fisicatecnica/Robotic%20System%207414eff539424fab8548e41d3ccc41b2.md)
-
-[Mechanical System](Fisicatecnica/Mechanical%20System%20225c0f5171ec8007b893cafdb1bf1214.md)
-
-[Electromagnetic System](Fisicatecnica/Electromagnetic%20System%20225c0f5171ec8031ab77cac045137d2a.md)
+> ...
 
 ## References
 
