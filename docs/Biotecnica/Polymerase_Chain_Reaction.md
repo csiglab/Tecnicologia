@@ -1,9 +1,6 @@
 # Polymerase chain reaction (PCR)
 
-: 31
-
 > …
-> 
 
 ## References
 
