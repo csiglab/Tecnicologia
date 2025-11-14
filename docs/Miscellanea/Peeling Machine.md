@@ -6,9 +6,6 @@
 > 
 
 > A **peeling machine** is a **mechanical or automated device** designed to **remove the outer layer (skin, peel, or husk)** of a raw material—typically a food product such as fruits, vegetables, or tubers—in a **controlled, efficient, and scalable** manner.
-> 
-
-![image.png](Peeling%20Machine/image.png)
 
 ## Structure
 
