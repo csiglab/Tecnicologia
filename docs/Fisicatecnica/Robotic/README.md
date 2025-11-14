@@ -251,10 +251,6 @@ This formalization covers:
 > https://news.ycombinator.com/item?id=24207424
 > 
 
-## Conceptual Model
-
-[Automatum: Conceptual Model](Robotic%20System/Automatum%20Conceptual%20Model%20224c0f5171ec803c83cec3225e508cef.csv)
-
 ## References
 
 - [Robotics](https://en.wikipedia.org/wiki/Robotics)

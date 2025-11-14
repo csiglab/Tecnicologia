@@ -33,5 +33,3 @@ The naval industry is dynamic and influenced by geopolitical, economic, and tech
 
 - Frassa, Juliana; Versino, Mariana; Guedes de Jesús, Claudiana; Gitahy, 
 Leda. «El rol estatal en sectores estratégicos. La industria naval  pesada en Argentina y Brasil». *Revista de Historia Industrial*, 2011, n.º 47, pp. 151-181, https://raco.cat/index.php/HistoriaIndustrial/article/view/248228.
-
-[**Shipbuilding**](Naval/Shipbuilding%2065cc6b9480d04063ab723e6c841c186f.md)

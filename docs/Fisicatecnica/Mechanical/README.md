@@ -103,11 +103,8 @@ These assemblies (mechanisms, machines, structures) exhibit behaviors that are o
 | **“An Elementary Treatise on Mechanics” by William Rankine** | Explanation of mechanics with engineering applications; widely adopted in the Industrial Revolution. | 1850s | British |
 | **“A Treatise on Machinery” by Robert Willis** | Systematic study of machines, including kinematics and mechanisms; foundational in machine design. | 1841–1844 | British |
 | **“Applied Mechanics” by James Thomson** | Covers statics, dynamics, and strength of materials; standard in engineering education. | 1879 | British/Scottish |
-| **“The Engineer’s Pocket-Book” by Lionel S. Marks** | Practical handbook for engineers; mechanics, thermodynamics, materials, and machinery design. | 1890s | British (international reach) |
+| **“The Engineer’s Pocket-Book” by Lionel S. Marks** | Practical handbook for engineers; mechanics, thermodynamics, materials, and machinery design. | 1890s | British (international reach) 
 
-## Notes Space
-
-[Conceptual Model: Mechanical System](Mechanical%20System/Conceptual%20Model%20Mechanical%20System%20225c0f5171ec81f98d19f57ea9f5da38.csv)
 
 ## References
 

@@ -94,7 +94,6 @@
 > **Note:** An *engine* is a conceptual abstraction, not a system in itself. It can be implemented using various underlying technologies, depending on the context and requirements.
 > 
 
-![image.png](Fisicatecnica/image.png)
 
 | **Engine Type** | **Energy Source** | **Mechanism** | **Common Applications** |
 | --- | --- | --- | --- |
