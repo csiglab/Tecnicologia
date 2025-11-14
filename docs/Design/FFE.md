@@ -1,10 +1,17 @@
 # Furniture, Fixtures, and Equipment (FF&E)
 
-> ...
+> **FF&E** refers to the movable and non-structural items—such as furniture, removable fixtures, and operational equipment—required to make an interior space functional, usable, and complete, without being part of the building’s permanent construction.
 
 ## Formulation
 
 > FF&E — Furniture, Fixtures, and Equipment — belongs primarily to the praxis domain of Interior Design & Interior Architecture, specifically within the Interior Furnishing / Fit-Out subsystem.
+
+| Category      | Description                                                                                            | Typical Items                                                                      |
+| ------------- | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- |
+| **Furniture** | Movable items that support human activities and ergonomics.                                            | Chairs, desks, sofas, tables, storage units.                                       |
+| **Fixtures**  | Items attached to the building but **not permanently integrated**; removable without major alteration. | Mounted shelves, light fixtures, whiteboards, built-in cabinetry (non-structural). |
+| **Equipment** | Operational tools and devices required for functional performance of the space.                        | Appliances, AV systems, lab equipment, medical devices, computers.                 |
+
 
 ### Interior Design Process Progression
 
